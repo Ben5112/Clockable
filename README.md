@@ -11,3 +11,6 @@ Download the Clockable - Windows 7 Experience.exe in the releases page
 
 For Windows 10 or newer (Constantly Tested):
 Download either the Clockable Standard Edition - Portable.exe or the Clockable Standard Edition - Installer.exe in the releases page
+
+Releases Coming Soon. 
+Release Date for Version v1.0.0: 11/22/2026
